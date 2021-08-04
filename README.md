@@ -1,27 +1,82 @@
-# Bytebank
+<h1 align="center">Banco Bytebank</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+<div align="center">
 
-## Development server
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+</div>
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<p align="center"> Projeto feito com Angular para simular uma transferência entre bancos.
+    <br> 
+</p>
 
-## Build
+## 📝 Sumário
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [Sobre](#about)
+- [Requisitos](#requisitos)
+- [Instalação](#instalacao)
+- [Testes](#tests)
+- [Built Using](#built_using)
+- [Autor](#authors)
 
-## Running unit tests
+## 🧐 Sobre <a name = "about"></a>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Projeto feito com Angular e Node para simular transferência entre bancos.
 
-## Running end-to-end tests
+### Requisitos <a name = "requisitos"></a>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Angular 5
+- NodeJS
+- Html e CSS
+- IDE (Foi utilizado o VS CODE)
+- My SQL
 
-## Further help
+```
+Exemplos de utilização
+```
+Projeto feito com Angular, utilizando o back end Node e persistindo as informações com MySQL.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### ⛏️ Instalação <a name = "instalação"></a>
+
+Baixe o projeto e no terminal digite:
+
+- Para Instalar os modulos do Node
+
+```
+
+npm install
+
+```
+
+- Caso não tenha instalado o Angular, após baixar os módulos digite:
+
+```
+
+npm install -g @angular/cli
+
+```
+
+- Para rodar o servidor do Angular, digite:
+
+```
+
+ng serve
+
+```
+## 🔧 Testes <a name = "tests"></a>
+
+Os testes são feitos dentro do arquivo test.ts . Verifique os dados antes de rodar o código.
+
+## ⛏️ Built Using <a name = "built_using"></a>
+
+- [NodeJS](https://nodejs.org/en/) - Back End and Server Environment
+- [Angular](https://angular.io/cli) - JavaScript Framework
+- [Visual Studio Code](https://code.visualstudio.com) - IDE
+- [MySQL](https://www.mysql.com/downloads/) - SQL Database
+
+## ✍️ Autor <a name = "authors"></a>
+
+- [@valladaCarbon](https://github.com/valladaCarbon)
