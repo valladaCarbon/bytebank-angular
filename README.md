@@ -63,7 +63,7 @@ npm install -g @angular/cli
 
 ```
 
-ng serve
+ng s -o
 
 ```
 ## 🔧 Testes <a name = "tests"></a>
